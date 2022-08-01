@@ -1,6 +1,7 @@
 # SCR AUTOPILOT 
 
 works on version 1.9.6
+idk if it works rn, maybe obfuscator broke it
 
 "imagine exploiting in a train game" - a wise man
 
