@@ -2,12 +2,6 @@
 
 works on version 1.9.6
 
-idk if it works rn, maybe obfuscator broke it
-
-yes i know benton terminus is broken
-
-
-
 "imagine exploiting in a train game" - a wise man
 
 scr devs pls dont ban :very_very_sad_face:
@@ -34,5 +28,10 @@ Is it allowed?
 How can i run it?
 - 1) download a lua executor (krnl, synapse...)
 - 2) run it when you spawned in a depot
+
+known bugs:
+- morganstown (ik why)
+- benton terminus broken (idk why)
+
 
 btw, auto guard soon :)
