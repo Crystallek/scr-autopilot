@@ -31,7 +31,7 @@ How can i run it?
 
 known bugs:
 - morganstown connect terminus (ik why)
-- benton terminus broken (idk why)
+- benton waterline terminus broken (idk why)
 
 
 btw, auto guard soon :)
