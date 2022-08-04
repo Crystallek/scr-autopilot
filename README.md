@@ -30,7 +30,7 @@ How can i run it?
 - 2) run it when you spawned in a depot
 
 known bugs:
-- morganstown (ik why)
+- morganstown connect terminus (ik why)
 - benton terminus broken (idk why)
 
 
