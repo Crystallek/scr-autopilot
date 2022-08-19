@@ -1,5 +1,7 @@
 # SCR AUTOPILOT (beta)
 
+<img src="https://komarev.com/ghpvc/?username=aszope&style=flat-square&label=REPO+VIEWS" />
+
 a very bad cheat for this game: https://www.roblox.com/games/696347899/V1-9-Stepford-County-Railway?AssetId=696347899#ropro-quick-search
 
 works on version 1.9.7
