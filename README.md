@@ -1,12 +1,12 @@
 # SCR AUTOPILOT (beta)
 
-maintenance mode rn
+YOU NEED TO BE ZOOMED IN!
 
-a very bad cheat for this game: https://www.roblox.com/games/696347899/V1-9-Stepford-County-Railway?AssetId=696347899#ropro-quick-search
+a cheat for this very bad game: https://www.roblox.com/games/696347899/V1-9-Stepford-County-Railway?AssetId=696347899#ropro-quick-search
 
 works on version 1.9.7
 
-"imagine exploiting in a train game" - a wise man
+"imagine exploiting in a train game" - a wise man(topinka)
 
 scr devs pls dont ban :very_very_sad_face:
 
