@@ -1,6 +1,6 @@
 # SCR AUTOPILOT (beta)
 
-works the best with 100 mph trains
+works the best with 100 mph trains (even though a patch is coming which will fix this)
 
 a very bad cheat for this game: https://www.roblox.com/games/696347899/V1-9-Stepford-County-Railway?AssetId=696347899#ropro-quick-search
 
