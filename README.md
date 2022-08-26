@@ -1,6 +1,6 @@
 # SCR AUTOPILOT (beta)
 
-maintenance mode rn
+works the best with 100 mph trains
 
 a very bad cheat for this game: https://www.roblox.com/games/696347899/V1-9-Stepford-County-Railway?AssetId=696347899#ropro-quick-search
 
