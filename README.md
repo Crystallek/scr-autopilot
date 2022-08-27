@@ -29,6 +29,8 @@
   The Roblox window has to be maximized and focused, else the train will not brake or speed up. This is because it uses a keypress() function, which is basically an executor pressing keys for us. I wanted to use a VirtualUser key presses, but SCR blocks it. You can disable a Train HUD though by pressing Shift + G, it can actually read data from the UI even if not visible.
   
   An autopilot was coded to work on version 1.9.7. That means a future updates can make a script unusable. I will try to maintain it, but I will not promise anything.
+  
+  And for the best functionality, i recommend to use an interior camera (Train cabin).
 
 ## 🐛 Known bugs
   - Bad stop at Morganstown (Connect only), it breaks because there is a Waterline buffer closer to us than the buffer on our track. The script can differenciate the buffers, so it tries to stop to the closest one
