@@ -20,7 +20,7 @@
     - KRNL (https://krnl.place, Free)
     - Synapse X (https://x.synapse.to/, Paid)
   - Inject it into running Roblox Player
-  - Execute the script, a basic UI will show up
+  - Execute the script (copy scr.lua file and paste it to an executor), a basic UI will show up
   - Set the max speed of your train
   - Spawn a train
   - Turn an Autopilot on
