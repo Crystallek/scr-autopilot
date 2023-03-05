@@ -18,7 +18,7 @@
   - Auto AWS 🌻
 ## 🖥️ Set up
   - Download a Lua executor
-    - KRNL (https://fluxteam.net/, Free)
+    - Fluxus (https://fluxteam.net/, Free)
     - Script-Ware (https://script-ware.com/, Paid)
   - Inject it into running Roblox Player
   - Execute the script (copy scr.lua file and paste it to an executor), a basic UI will show up
