@@ -18,8 +18,8 @@
   - Auto AWS 🌻
 ## 🖥️ Set up
   - Download a Lua executor
-    - KRNL (https://krnl.place, Free)
-    - Synapse X (https://x.synapse.to/, Paid)
+    - KRNL (https://fluxteam.net/, Free)
+    - Synapse X (https://script-ware.com/, Paid)
   - Inject it into running Roblox Player
   - Execute the script (copy scr.lua file and paste it to an executor), a basic UI will show up
   - Set the max speed of your train
@@ -34,8 +34,7 @@
   And for the best functionality, i recommend to use an interior camera (Train cabin).
 
 ## 🐛 Known bugs
-  - Bad stop at Morganstown (Connect only), it breaks because there is a Waterline buffer closer to us than the buffer on our track. The script can differenciate the buffers, so it tries to stop to the closest one
-  - Bad stop at Benton (Waterline, terminating trains only), I do not know why it happens, i will look into it later. For now you can use SV <> Beechley route for grinding
+  - None
 
 ## 💻 Future updates
   - Optimalisation
@@ -45,9 +44,8 @@
   - First prototype was made in 4 hours.
 
 ## 🌐 Discord
-  - https://discord.gg/UvY8vKFe
-  - https://discord.gg/3pY4rbgg
+  - https://discord.gg/N4HHk3D8Qd
 
-## 👨‍💻 Creators:
-- [Crystallek#3348] - Programmer (https://github.com/Crystallek)
-- [Take#8559] - Tester (https://github.com/takoda121)
+## 👨‍💻 Contributors:
+- [Crystallek#3348] - Owner (https://github.com/Crystallek)
+- [Take#9044](https://discord.com/users/1075053921044799518) - ReadMe Edit, Tester  [His github](https://github.com/takoda121)
